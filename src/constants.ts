@@ -1,0 +1,1 @@
+export const googleSheetUrl = "https://api.sheety.co/53219cd7853828f8d4a6c741aff787e5/sheety/website"
